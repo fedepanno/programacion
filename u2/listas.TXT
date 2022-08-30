@@ -1,3 +1,5 @@
 remera
 pantalon
 zapatillas
+buzos
+guantes
